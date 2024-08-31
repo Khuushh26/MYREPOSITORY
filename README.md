@@ -23,22 +23,11 @@ This project is a personal webpage that introduces who I am, showcases some of m
 - **CSS**: For styling and layout.
 
 
-## Getting Started
 
- **Open the Webpage**:
-   - Open `index.html` in your preferred web browser.
 
-## Preview
-
-You can view the live version of the project at [Your Live Link](https://your-live-link.com).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Special thanks to [Online Tutorial/Resource] for guidance and inspiration.
 - Thanks to my friends and family for their support and feedback.
 
 ## Feedback
